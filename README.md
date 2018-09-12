@@ -3,7 +3,7 @@
 This is RSS feed reader application. It uses the Google
 Feed Reader API to grab RSS feeds as JSON object and display them.
 
-In an existing project given to me by Udacity for my nanodegree course, using Jasmine to test if the Javascript is working properly. 
+Part of FEND already developed project given to me by Udacity, to write tests using Jasmine to test if the Javascript is working properly. 
 
 ## Dependencies
 * Handlebars templating library
