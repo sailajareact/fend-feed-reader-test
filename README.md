@@ -11,7 +11,7 @@ In an existing project given to me by Udacity for my nanodegree course, using Ja
 
 ##  How to Run Appilcation
 
-Download or clone repositrory from <a href="https://github.com/Ul1ra/FeedReader">here.</a>
+Download or clone repositrory from <a href="https://github.com/sailajareact/fend-feed-reader-test.git">here.</a>
 Then open the index.html file in a browser.
 
 
@@ -22,10 +22,10 @@ Testing is an important part of the development process and many organizations p
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
 # Project Assets
-[Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric).
-[required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
-[course](https://www.udacity.com/course/ud549).
-[Jasmine documentation](http://jasmine.github.io).
+* [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric).
+* [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
+* [course](https://www.udacity.com/course/ud549).
+* [Jasmine documentation](http://jasmine.github.io).
 
 # Implemented Tests
 
